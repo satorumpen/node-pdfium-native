@@ -27,5 +27,8 @@
       "type": "BSD"
     }
   ],
-  "main": "./lib/pdfium"
+  "main": "./lib/pdfium",
+  "os": [
+    "win32"
+  ]
 }
